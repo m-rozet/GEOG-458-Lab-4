@@ -2,7 +2,7 @@
 
 For this project, I examine Seattle and surrounding areas. Zoom levels for my tiles are from 1 to 14. I also include a description of the function of this map in the lower left hand corner.
 
-The map can be accessed via: https://m-rozet.github.io/GEOG-458-Lab-4
+The map can be accessed via: https://m-rozet.github.io/GEOG-458-Lab-4/
 
 Tile 1 is a new basemap that I created on Mapbox. Using the Monochrome template, I adjusted the colors of land and water, as well as the roads. Additionally, I changed the font to Garamond and added ferry routes, as well as a ferry icon, seen at a closer zoom level.
 
